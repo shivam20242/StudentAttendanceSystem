@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://studentattendancesystem-tge3.onrender.com/api";
 
 const getToken = () => localStorage.getItem("token");
 
